@@ -8,6 +8,7 @@ public class Calculadora {
        num2 = b;
    }
    public int suma() {
+	   // Comentario realizado por el miembro del equipo_0
        int resul = num1 + num2;
        return resul;
    }
