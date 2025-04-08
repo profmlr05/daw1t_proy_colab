@@ -3,7 +3,7 @@ public class Calculadora {
     private int num1;
     private int num2;
 
-    //asdsdsdasd
+    //Comentario REalizado por el miembro del equipo_1
    public Calculadora(int a, int b) {
        num1 = a;
        num2 = b;
