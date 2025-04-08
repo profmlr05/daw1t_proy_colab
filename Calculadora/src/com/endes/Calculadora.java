@@ -3,6 +3,7 @@ public class Calculadora {
     private int num1;
     private int num2;
 
+    //asdsdsdasd
    public Calculadora(int a, int b) {
        num1 = a;
        num2 = b;
@@ -22,6 +23,7 @@ public class Calculadora {
    public int divide() {
        int resul = num1 / num2;
        return resul;
+       //HOLA
    }
    
    public int divide0() {		   
