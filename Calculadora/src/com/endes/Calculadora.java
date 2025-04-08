@@ -7,6 +7,7 @@ public class Calculadora {
        num1 = a;
        num2 = b;
    }
+   // Comentario realizado por el miembro del equipo_4
    public int suma() {
        int resul = num1 + num2;
        return resul;
