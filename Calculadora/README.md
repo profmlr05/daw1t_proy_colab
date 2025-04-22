@@ -12,4 +12,4 @@
     
     Con este proyecto de colaboración se va trabajar y utilizar todo la gestión del control del versiones de un proyecto utilizando Eclise (Egit) y GitHub       
      
-  
+  Comentario añadido en el metodo suma
