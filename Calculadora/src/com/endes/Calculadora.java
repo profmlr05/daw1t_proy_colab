@@ -12,7 +12,7 @@ public class Calculadora {
 
 
   // ejemplo de comentario.
-    
+  // Comentario de Ruben  
   
     /**
      * Iniciar clase
@@ -25,7 +25,7 @@ public class Calculadora {
        num2 = b;
    }
   /**
-   * Realiza la suma de dos números enteros
+   * Realiza la suma de dos números enteros 
    * @return {@code int}  
    */
    public int suma() {
